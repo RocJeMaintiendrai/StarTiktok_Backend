@@ -1,7 +1,10 @@
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/HelloWorldController.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/BasicController.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/RegistLoginController.java
+/Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/VideoController.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/WebMvcConfig.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/Application.java
+/Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/BgmController.java
+/Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/interceptor/MiniInterceptor.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/controller/UserController.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-mini-api/src/main/java/com/imooc/Swagger2.java

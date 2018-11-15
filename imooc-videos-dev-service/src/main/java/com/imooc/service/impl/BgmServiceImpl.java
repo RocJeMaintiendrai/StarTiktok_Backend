@@ -9,24 +9,18 @@ import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.imooc.mapper.BgmMapper;
-import com.imooc.mapper.UsersMapper;
 import com.imooc.pojo.Bgm;
-import com.imooc.pojo.Users;
 import com.imooc.service.BgmService;
-import com.imooc.service.UserService;
-
-import tk.mybatis.mapper.entity.Example;
-import tk.mybatis.mapper.entity.Example.Criteria;
 
 @Service
 public class BgmServiceImpl implements BgmService {
-	
+
 	@Autowired
 	private BgmMapper bgmMapper;
 	
 	@Autowired
 	private Sid sid;
-
+	
 	@Transactional(propagation = Propagation.SUPPORTS)
 	@Override
 	public List<Bgm> queryBgmList() {

@@ -17,6 +17,7 @@
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/enums/BGMOperatorTypeEnum.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/utils/FFMpegTest.java
+/Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/utils/TimeAgoUtils.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/utils/FetchVideoCover.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/Code.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/HttpReq.java
@@ -24,6 +25,7 @@
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/Utils.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/utils/PagedResult.java
+/Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/utils/JsonUtils.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/Id.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/org/n3r/idworker/IdWorker.java
 /Users/guopeng/eclipse-workspace/imooc-videos-dev/imooc-videos-dev-common/src/main/java/com/imooc/utils/MyMapper.java
